@@ -1,0 +1,5 @@
+logs/
+include/artifacts/
+.git/
+__pycache__/
+.pytest_cache/
